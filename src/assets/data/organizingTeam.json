@@ -1,47 +1,56 @@
 [
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Management",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://www.github.com/",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":"https://github.com"
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":""
-    }
+  {
+    "name": "Malik Küçükşahin",
+    "designation": "Organizer",
+    "twitter": "https://twitter.com/guyasair",
+    "linkedin": "https://www.linkedin.com/in/malikkucuksahin",
+    "github": "https://github.com/malikkucuksahin",
+    "profileImage": "",
+    "website": ""
+  },
+  {
+    "name": "Erkan Ercan",
+    "designation": "Full Stack Developer/Assistant Organizer",
+    "twitter": "https://twitter.com/birabajur",
+    "linkedin": "https://www.linkedin.com/in/erkan-ercan",
+    "github": "https://github.com/erkan-ercan",
+    "profileImage": "",
+    "website": ""
+  },
+  {
+    "name": "Mahmut Yiğit",
+    "designation": "Assistant Organizer",
+    "twitter": "https://twitter.com/mahmutygt58",
+    "linkedin": "https://www.linkedin.com/in/mahmut-yiğit-3347a9142",
+    "github": "",
+    "profileImage": "",
+    "website": ""
+  },
+  {
+    "name": "Batuhan Hasan Akın",
+    "designation": "Assistant Organizer",
+    "twitter": "https://twitter.com/batuhanakin0",
+    "linkedin": "https://www.linkedin.com/in/batuhan-hasan-akin-631190130",
+    "github": "https://github.com/batuhanakin",
+    "profileImage": "",
+    "website": ""
+  },
+  {
+    "name": "Ayşe Gökçen Çatak",
+    "designation": "Assistant Organizer",
+    "twitter": "",
+    "linkedin": "",
+    "github": "",
+    "profileImage": "",
+    "website": ""
+  },
+  {
+    "name": "Almina Kip",
+    "designation": "Assistant Organizer",
+    "twitter": "",
+    "linkedin": "",
+    "github": "",
+    "profileImage": "",
+    "website": ""
+  }
 ]
