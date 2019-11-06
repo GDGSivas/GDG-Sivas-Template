@@ -1,8 +1,5 @@
 image: rambabusaravanan/firebase
 
-stage:
-  - deploy
-
 cache:
   paths:
     - node_modules/
