@@ -104,6 +104,10 @@ footer {
     padding-bottom: 12px;
 }
 
+#intro-text {
+    text-shadow: 3px 2px 6px #ffffffa3;
+}
+
 #intro .btn {
     background: transparent;
     border: 2px solid #ffffff;
@@ -305,7 +309,7 @@ footer {
 -----------------------------------------*/
 
 #intro {
-    background: url('../images/intro-bg.jpg') 50% 0 repeat-y fixed;
+    background: url('../images/wtm1.jpg') 50% 0 repeat-y fixed;
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
