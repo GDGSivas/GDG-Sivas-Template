@@ -10,7 +10,7 @@ function svgturkiyeharitasi() {
         'mouseover',
         function(event) {
             if (event.target.tagName === 'path' && event.target.parentNode.id !== 'guney-kibris' && event.target.parentNode.className.baseVal === 'gdg') {
-                imge.src = './map/gdg-logo.png';
+                imge.src = '/map/gdg-logo.png';
                 info.innerHTML = [
                     '<div>',
                     event.target.parentNode.getAttribute('data-iladi'),
