@@ -5,7 +5,7 @@
     "twitter": "https://twitter.com/guyasair",
     "linkedin": "https://www.linkedin.com/in/malikkucuksahin",
     "github": "https://github.com/malikkucuksahin",
-    "profileImage": "",
+    "profileImage": "malik.jpeg",
     "website": ""
   },
   {
@@ -14,7 +14,7 @@
     "twitter": "https://twitter.com/birabajur",
     "linkedin": "https://www.linkedin.com/in/erkan-ercan",
     "github": "https://github.com/erkan-ercan",
-    "profileImage": "",
+    "profileImage": "erkan.jpeg",
     "website": "https://erkanercan.tech"
   },
   {
@@ -23,7 +23,7 @@
     "twitter": "https://twitter.com/mahmutygt58",
     "linkedin": "https://www.linkedin.com/in/mahmut-yiğit-3347a9142",
     "github": "",
-    "profileImage": "",
+    "profileImage": "mahmut.jpg",
     "website": ""
   },
   {
@@ -32,16 +32,16 @@
     "twitter": "https://twitter.com/batuhanakin0",
     "linkedin": "https://www.linkedin.com/in/batuhan-hasan-akin-631190130",
     "github": "https://github.com/batuhanakin",
-    "profileImage": "",
+    "profileImage": "batu.jpeg",
     "website": ""
   },
   {
     "name": "Ayşe Gökçen Çatak",
     "designation": "Assistant Organizer",
     "twitter": "",
-    "linkedin": "",
-    "github": "",
-    "profileImage": "",
+    "linkedin": "http://linkedin.com/in/ay%C5%9Fe-g%C3%B6k%C3%A7en-%C3%A7atak-885625137",
+    "github": "https://github.com/gokcencatak",
+    "profileImage": "gokcen.jpeg",
     "website": ""
   },
   {
@@ -50,7 +50,7 @@
     "twitter": "#",
     "linkedin": "",
     "github": "",
-    "profileImage": "",
+    "profileImage": "almina.jpeg",
     "website": ""
   }
 ]
