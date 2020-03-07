@@ -88,6 +88,10 @@ footer {
     padding-bottom: 10rem;
 }
 
+#video {
+    background-color: rgb(249, 249, 249);
+}
+
 #detail,
 #speakers,
 #sponsors,
@@ -109,10 +113,8 @@ footer {
 }
 
 #intro .btn {
-    background: transparent;
     border: 2px solid #ffffff;
     border-radius: 0px;
-    color: #ffffff;
     font-weight: 600;
     letter-spacing: 1px;
     font-size: 12px;
@@ -253,7 +255,7 @@ footer {
 }
 
 .custom-navbar .nav li a {
-    color: #ddd;
+    color: #fff;
     font-size: 12px;
     font-weight: 500;
     letter-spacing: 0.6px;
@@ -309,11 +311,10 @@ footer {
 -----------------------------------------*/
 
 #intro {
-    background: url('../images/wtm1.jpg') 50% 0 repeat-y fixed;
+    background: url('../images/intro.jpeg') 50% 0 repeat-y fixed;
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
-    color: #ffffff;
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -713,6 +714,8 @@ footer {
     line-height: 50px;
     text-align: center;
     vertical-align: middle;
+    font-size: 3.5em;
+    margin-left: 0.8em;
 }
 
 .social-icon li a:hover {
