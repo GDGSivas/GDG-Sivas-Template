@@ -2,7 +2,7 @@
   {
     "name": "Malik Küçükşahin",
     "designation": "Organizer",
-    "twitter": "https://twitter.com/guyasair",
+    "twitter": "https://twitter.com/MalikKucuksahin",
     "linkedin": "https://www.linkedin.com/in/malikkucuksahin",
     "github": "https://github.com/malikkucuksahin",
     "profileImage": "malik.jpeg",
@@ -37,7 +37,7 @@
   },
   {
     "name": "Ayşe Gökçen Çatak",
-    "designation": "Assistant Organizer",
+    "designation": "Assistant Organizer/WTM Ambassador",
     "twitter": "",
     "linkedin": "http://linkedin.com/in/ay%C5%9Fe-g%C3%B6k%C3%A7en-%C3%A7atak-885625137",
     "github": "https://github.com/gokcencatak",
@@ -46,11 +46,38 @@
   },
   {
     "name": "Almina Kip",
-    "designation": "Assistant Organizer",
-    "twitter": "#",
-    "linkedin": "",
+    "designation": "Assistant Organizer/WTM Ambassador",
+    "twitter": "https://mobile.twitter.com/alminakip",
+    "linkedin": "https://www.linkedin.com/in/almina-kip58/?originalSubdomain=tr",
     "github": "",
     "profileImage": "almina.jpeg",
     "website": ""
+  },
+  {
+    "name": "Hasan Ali Şişeci",
+    "designation": "Assistant Organizer",
+    "twitter": "https://twitter.com/hassanalidev",
+    "linkedin": "http://linkedin.com/in/hasanalisiseci/",
+    "github": "http://github.com/hasanalisiseci",
+    "profileImage": "hasanali.jpg",
+    "website": "http://hasanalidev.medium.com/"
+  },
+  {
+    "name": "Emre Dipi",
+    "designation": "Assistant Organizer",
+    "twitter": "https://twitter.com/EmreDipi/",
+    "linkedin": "https://www.linkedin.com/in/emredipi/",
+    "github": "https://github.com/EmreDipi/",
+    "profileImage": "emredipi.jpg",
+    "website": "https://emredipi.com/"
+  },
+  {
+    "name": "Fatma Nur Yetim",
+    "designation": "Assistant Organizer",
+    "twitter": "https://twitter.com/nuryetimm",
+    "linkedin": "https://www.linkedin.com/in/nuryetim/",
+    "github": "",
+    "profileImage": "nuryetim.jpeg",
+    "website": "https://nuryetim.com/"
   }
 ]
