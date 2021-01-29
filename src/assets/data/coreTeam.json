@@ -79,5 +79,32 @@
     "github": "",
     "profileImage": "nuryetim.jpeg",
     "website": "https://nuryetim.com/"
+  },
+  {
+    "name": "Ismail Arslan",
+    "designation": "Assistant Organizer",
+    "twitter": "https://twitter.com/06ismailArslan",
+    "linkedin": "https://www.linkedin.com/in/ismail-arslan-1abb34b2/",
+    "github": "",
+    "profileImage": "avatar.png",
+    "website": ""
+  },
+  {
+    "name": "Zeynep Gedik",
+    "designation": "Assistant Organizer",
+    "twitter": "https://twitter.com/zeynep_gedikk",
+    "linkedin": "https://www.linkedin.com/in/zeynep-gedik-81b3801a3/",
+    "github": "https://github.com/zeygdk",
+    "profileImage": "zeynepgedik.jpg",
+    "website": ""
+  },
+  {
+    "name": "Serife Sarıkaya",
+    "designation": "Assistant Organizer",
+    "twitter": "https://twitter.com/SrkySerife",
+    "linkedin": "https://www.linkedin.com/in/%C5%9Ferife-sar%C4%B1kaya-2ba970176/",
+    "github": "https://github.com/serife-srky",
+    "profileImage": "serife.jpeg",
+    "website": ""
   }
 ]
