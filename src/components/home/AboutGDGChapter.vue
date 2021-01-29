@@ -15,7 +15,7 @@
           color="white"
           class="ma-0 google-font"
           style="border-radius:5px;text-transform: capitalize;"
-          >Meetup Page</v-btn
+          >Community Page</v-btn
         >
         &nbsp;
         <v-btn
